@@ -23,14 +23,14 @@ The web application includes the following eight core features:
 
 ## Contributors
 
-Group Leader - IT21024818 - Mr. Dinuka Dissanayake (it21024818)
-Member 2 - IT21094668 - Mr. Nidula Wickramarathne (it21094668)
-Member 3 - IT21084522 - Mr. Anuga Dissanayake (it21084522)
-Member 4 - IT21111860 - Miss. Navodhya Weerasingha (it21111860)
-Member 5 - IT21085444 - Mr. Sasindu Fernando (it21085444)
-Member 6 - IT21108990 - Mr. Kaveen Uththara (it21108990)
-Member 7 - IT21013782 - Mr. Eranga Amarasekara (it21013782)
-Member 8 - IT21016820 - Miss. Ashani Rasangika (it21016820)
+- Group Leader - IT21024818 - Mr. Dinuka Dissanayake (it21024818)
+- Member 2 - IT21094668 - Mr. Nidula Wickramarathne (it21094668)
+- Member 3 - IT21084522 - Mr. Anuga Dissanayake (it21084522)
+- Member 4 - IT21111860 - Miss. Navodhya Weerasingha (it21111860)
+- Member 5 - IT21085444 - Mr. Sasindu Fernando (it21085444)
+- Member 6 - IT21108990 - Mr. Kaveen Uththara (it21108990)
+- Member 7 - IT21013782 - Mr. Eranga Amarasekara (it21013782)
+- Member 8 - IT21016820 - Miss. Ashani Rasangika (it21016820)
 
 ## Feedback and Support
 
